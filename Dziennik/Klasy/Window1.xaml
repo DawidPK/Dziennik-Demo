@@ -1,0 +1,15 @@
+﻿<Window x:Class="Klasy.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Klasy"
+        mc:Ignorable="d"
+        Title="Window1" Height="300" Width="500">
+    <Grid>
+        <TextBlock Grid.Column="0" Grid.Row="2" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="20 pt" Grid.RowSpan="2">Dodaj Szkołę:</TextBlock>
+        <TextBox Width="348" Height="20" VerticalAlignment="Top" HorizontalAlignment="Center"  Name="nSzkl" Margin="0,65,0,0">Nazwa Szkoły</TextBox>
+        <Button Width="100" Height="41" VerticalAlignment="Top" HorizontalAlignment="Center" Click="addSzkl" Margin="0,171,0,0">Dodaj Szkołę</Button>
+
+    </Grid>
+</Window>

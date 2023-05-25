@@ -1,0 +1,17 @@
+﻿<Window x:Class="Klasy.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Klasy"
+        mc:Ignorable="d"
+        Title="Window2" Height="300" Width="500">
+    <Grid>
+        <TextBlock Grid.Column="1" Grid.Row="2"  VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="20 pt" >Dodaj Klasę:</TextBlock>
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="10 pt" Margin="130,58,0,0" RenderTransformOrigin="0.618,0.721">Do Szkoły:</TextBlock>
+        <ComboBox Name="ComboSzkl"  VerticalAlignment="Top" HorizontalAlignment="Center" Width="190" Margin="0,101,0,0"/>
+        <TextBox Width="190" Height="20" VerticalAlignment="Top" HorizontalAlignment="Center"  Name="nKl" Margin="0,144,0,0">Nazwa klasy</TextBox>
+        <Button Width="100" Height="41" VerticalAlignment="Top" HorizontalAlignment="Center" Click="addKlas" Margin="0,183,0,0">Dodaj Klasę</Button>
+
+    </Grid>
+</Window>

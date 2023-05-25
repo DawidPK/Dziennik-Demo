@@ -1,0 +1,104 @@
+C:\Users\PC\source\repos\Klasy\Klasy\bin\Debug\Klasy.exe.config
+C:\Users\PC\source\repos\Klasy\Klasy\bin\Debug\Klasy.exe
+C:\Users\PC\source\repos\Klasy\Klasy\bin\Debug\Klasy.pdb
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.cache
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.lref
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.g.resources
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.Properties.Resources.resources
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.exe
+C:\Users\PC\source\repos\Klasy\Klasy\obj\Debug\Klasy.pdb
+D:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.exe.config
+D:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.exe
+D:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.pdb
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.SuggestedBindingRedirects.cache
+D:\PanProfesor\Klasy\Klasy\obj\Debug\MainWindow.g.cs
+D:\PanProfesor\Klasy\Klasy\obj\Debug\App.g.cs
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.cache
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.lref
+D:\PanProfesor\Klasy\Klasy\obj\Debug\MainWindow.baml
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.g.resources
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.Properties.Resources.resources
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.GenerateResource.cache
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.exe
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.pdb
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window1.g.cs
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window2.g.cs
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window3.g.cs
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window1.baml
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window2.baml
+D:\PanProfesor\Klasy\Klasy\obj\Debug\Window3.baml
+H:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.exe.config
+H:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.exe
+H:\PanProfesor\Klasy\Klasy\bin\Debug\Klasy.pdb
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.SuggestedBindingRedirects.cache
+H:\PanProfesor\Klasy\Klasy\obj\Debug\MainWindow.g.cs
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window1.g.cs
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window2.g.cs
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window3.g.cs
+H:\PanProfesor\Klasy\Klasy\obj\Debug\App.g.cs
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.cache
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.lref
+H:\PanProfesor\Klasy\Klasy\obj\Debug\MainWindow.baml
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window1.baml
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window2.baml
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Window3.baml
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.g.resources
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.Properties.Resources.resources
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.GenerateResource.cache
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.exe
+H:\PanProfesor\Klasy\Klasy\obj\Debug\Klasy.pdb
+C:\Users\PC\Desktop\Klasy\Klasy\bin\Debug\Klasy.exe.config
+C:\Users\PC\Desktop\Klasy\Klasy\bin\Debug\Klasy.exe
+C:\Users\PC\Desktop\Klasy\Klasy\bin\Debug\Klasy.pdb
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window1.g.cs
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window2.g.cs
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window3.g.cs
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.cache
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.lref
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window1.baml
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window2.baml
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Window3.baml
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.g.resources
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.Properties.Resources.resources
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.exe
+C:\Users\PC\Desktop\Klasy\Klasy\obj\Debug\Klasy.pdb
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\bin\Debug\Klasy.exe.config
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\bin\Debug\Klasy.exe
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\bin\Debug\Klasy.pdb
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window1.g.cs
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window2.g.cs
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window3.g.cs
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.cache
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy_MarkupCompile.lref
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window1.baml
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window2.baml
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Window3.baml
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.g.resources
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.Properties.Resources.resources
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.exe
+C:\Users\PC\Desktop\Szkolne Pliki 3.0\Klasy\Klasy\obj\Debug\Klasy.pdb
